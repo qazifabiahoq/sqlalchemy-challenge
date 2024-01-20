@@ -70,7 +70,7 @@ The Flask application can be executed by running the app.py script. The home rou
 The project uses climate data sourced from the Global Historical Climatology Network-Daily Database (Menne et al., 2012).
 
 
-# File Structure:
+## File Structure:
 
 
 
@@ -86,7 +86,7 @@ The project uses climate data sourced from the Global Historical Climatology Net
         - PrecipitationAnalysis_12months.png
         - Temperature_12Months.png
         - 
-# Reference:
+## Reference:
 
 Menne, M.J., I. Durre, R.S. Vose, B.E. Gleason, and T.G. Houston, 2012: An overview of the Global Historical Climatology Network-Daily Database. Journal of Atmospheric and Oceanic Technology, 29, 897-910. https://journals.ametsoc.org/view/journals/atot/29/7/jtech-d-11-00103_1.xml
 
